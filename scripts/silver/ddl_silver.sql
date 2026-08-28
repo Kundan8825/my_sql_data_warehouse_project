@@ -1,17 +1,17 @@
--- ============================================================
--- CREATE SILVER LAYER TABLES
--- ============================================================
--- Purpose:
--- This script creates all tables required for the Silver Layer.
--- The Silver Layer stores cleaned, standardized, and transformed
--- data from the Bronze Layer.
---
--- Source Systems:
--- 1. CRM System
--- 2. ERP System
---
--- ============================================================
+/* ============================================================
+ CREATE SILVER LAYER TABLES
+ ============================================================
+ Purpose:
+ This script creates all tables required for the Silver Layer.
+ The Silver Layer stores cleaned, standardized, and transformed
+ data from the Bronze Layer.
 
+Source Systems:
+1. CRM System
+2. ERP System
+
+============================================================
+*/
 
 -- ============================================================
 -- CRM: Customer Information
