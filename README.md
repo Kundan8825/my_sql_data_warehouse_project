@@ -88,19 +88,6 @@ data-warehouse-project/
 ```
 ---
 
-## ☕ Stay Connected
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kundan-raj0678)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=About.me&logoColor=white)](https://kundan8825.github.io/Kundan-Portfolio/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kundanraj0678)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kundan_ydvv)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sarkar0678/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kundanraj0678/)
-
-
-
 ---
 
 ## 🛡️ License
@@ -113,6 +100,8 @@ Hi there! I'm **Kundan Raj**, an **MCA** student and aspiring **Data Analyst & A
 
 I believe in learning by building, which is why I love working on real-world datasets, analytics projects, and AI-driven applications. Through my journey, I aim to make complex technical concepts simple, practical, and engaging.
 
+## ☕ Stay Connected
+
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kundan-raj0678)
@@ -121,4 +110,5 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kundan_ydvv)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sarkar0678/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kundanraj0678/)
+
 
